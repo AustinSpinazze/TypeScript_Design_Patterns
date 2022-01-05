@@ -1,0 +1,1 @@
+# TypeScript_Design_Patterns
