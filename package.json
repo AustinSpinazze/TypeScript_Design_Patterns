@@ -1,0 +1,53 @@
+{
+	"name": "typescript_design_patterns",
+	"version": "1.0.0",
+	"description": "23 Different Design Patterns from the Gang of Four implemented in TypeScript",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AustinSpinazze/npTypeScript_Design_Patterns.git"
+	},
+	"keywords": [
+		"TypeScript",
+		"DesignPatterns",
+		"GangOfFour",
+		"Singleton",
+		"Factory",
+		"AbstractFactory",
+		"Builder",
+		"Prototype",
+		"Adapter",
+		"Bridge",
+		"Composite",
+		"Decorator",
+		"Facade",
+		"Flyweight",
+		"Proxy",
+		"ChainOfResponsibility",
+		"Command",
+		"Interpreter",
+		"Iterator",
+		"Mediator",
+		"Memento",
+		"Observer",
+		"State",
+		"Strategy",
+		"TemplateMethod",
+		"Visitor"
+	],
+	"author": "Austin Spinazze",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AustinSpinazze/TypeScript_Design_Patterns/issues"
+	},
+	"homepage": "https://github.com/AustinSpinazze/TypeScript_Design_Patterns#readme",
+	"devDependencies": {
+		"@types/node": "^17.0.8",
+		"@typescript-eslint/eslint-plugin": "^5.9.0",
+		"@typescript-eslint/parser": "^5.9.0",
+		"eslint": "^8.6.0",
+		"typescript": "^4.5.4"
+	}
+}
