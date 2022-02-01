@@ -1,4 +1,5 @@
 "use strict";
+// TypeScript Classes are like a blueprint for creating objects. They are a way of defining the properties and methods that an object should have.
 class Dog {
     constructor(name) {
         this.stepsWalked = 0;
