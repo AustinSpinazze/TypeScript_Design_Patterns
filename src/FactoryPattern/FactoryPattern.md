@@ -30,6 +30,8 @@ Adding this extra layer of abstraction also means that the complications of inst
 
 ---
 
+If you have the PlantUML extension installed on VS Code and GraphViz and Java installed on your machine your can preview and edit the UML diagram directly in VS Code. In case you do not want to have to go through the process of adding the extension, and installing its dependencies you can also copy and paste the PlantUML code below into the PlantUML online editor [here](https://www.planttext.com/). I also provided a png file of the UML diagram in the current working directory.
+
 ```plantuml
 @startuml
   class FactoryClass {
